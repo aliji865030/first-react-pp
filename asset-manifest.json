@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64f9517c.css",
+    "main.js": "/static/js/main.a15418e8.js",
+    "static/js/453.5c41e136.chunk.js": "/static/js/453.5c41e136.chunk.js",
+    "static/media/footerLogo.png": "/static/media/footerLogo.f6b5110f054a93c3fa65.png",
+    "static/media/geekster-logo.png": "/static/media/geekster-logo.c8dba32a1c6f74dbb158.png",
+    "index.html": "/index.html",
+    "main.64f9517c.css.map": "/static/css/main.64f9517c.css.map",
+    "main.a15418e8.js.map": "/static/js/main.a15418e8.js.map",
+    "453.5c41e136.chunk.js.map": "/static/js/453.5c41e136.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f9517c.css",
+    "static/js/main.a15418e8.js"
+  ]
+}
